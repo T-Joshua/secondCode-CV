@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  min-height: 100vh;
+  margin: 0 auto;
+  width: 80%;
+  padding-top: 100px;
+}
+
+.leftcontainer {
+  width: 30%;
+  background-color: darkgrey;
+}
+
+.image {
+  width: 80%;
+  margin-top: -60px;
+  margin-left: 10%;
+}
+
+.address {
+  font-size: 15px;
+  text-align: center;
+}
+
+.cantact {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.contact-container {
+  margin-left: 10%;
+  padding-top: 20px;
+}
+
+.education {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.info {
+  margin-left: 10%;
+}
+
+.info h2 {
+  font-size: 18px;
+  padding-top: 20px;
+}
+
+.info p {
+  text-align: center;
+  padding-right: 15%;
+  padding-top: 5px;
+}
+
+.info2 {
+  text-align: center;
+}
+
+.info2 h2 {
+  font-size: 18px;
+  padding-top: 20px;
+}
+
+.info2 p {
+  padding-right: 7%;
+  padding-top: 5px;
+}
+
+.expertise {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.expertise-container {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.rightcontainer {
+  width: 68%;
+  background-color: whitesmoke;
+}
+
+.header {
+  text-align: center;
+  background-color: rgb(208, 162, 144);
+  font-size: 60px;
+  width: 80;
+  margin-top: -60px;
+}
+
+.header i {
+  background-color: darkgrey;
+}
+
+.profile {
+  text-align: center;
+  padding-right: 10%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.classp {
+  font-size: 80%;
+}
+
+.experience {
+  text-align: center;
+  padding-right: 10%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.job-title {
+  display: flex;
+  justify-content: space-between;
+  font-size: 80%;
+}
+
+.classp2 {
+  font-size: 80%;
+}
+
+.list li {
+  margin-left: 20px;
+  padding-top: 10px;
+}
+
+.job-title2 {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+  font-size: 80%;
+}
+
+.classp3 {
+  font-size: 80%;
+}
+
+.job-title3 {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+  font-size: 80%;
+}
+
+.classp4 {
+  font-size: 80%;
+}
